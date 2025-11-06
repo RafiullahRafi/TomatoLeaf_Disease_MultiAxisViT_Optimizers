@@ -16,6 +16,7 @@ in the context of precision agriculture.
 ## Dataset
 Tomato Leaf subset of the PlantVillage dataset.
 
+## Results and analysis 
 **Table:** Comparison of different optimization algorithms applied during training of the Multi-Axis Vision Transformer (MaxViT) model for tomato leaf disease classification. SophiaG achieved the highest convergence and best overall performance compared to other optimizers.
 | Optimizer| F1 Score | Recall | Precision | Overall Accuracy |
 |----------|---------:|-------:|----------:|-----------------:|
