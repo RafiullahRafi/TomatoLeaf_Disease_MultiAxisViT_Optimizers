@@ -40,5 +40,5 @@ If you use this repository, please cite our paper:
 
 ## Author
 Rafiullah Rafi  
-Deportment of Agricultural Engineering, Afghanisatan National Agricultural Sciences and Technology University(ANASTU), Kandahar, Afghanistan  
+Department of Agricultural Engineering, Afghanisatan National Agricultural Sciences and Technology University(ANASTU), Kandahar, Afghanistan  
 Email: r.rafi@anastu.edu.af
