@@ -7,8 +7,8 @@ in the context of precision agriculture.
 - Multi-Axis Vision Transformer (MaxViT)
 
 ## Optimizers Compared
-- SophiaG
 - AdamW
+- SophiaG
 - Adam
 - Adagrad
 - RMSprop
@@ -20,8 +20,8 @@ Tomato Leaf subset of the PlantVillage dataset.
 **Table:** Comparison of different optimization algorithms applied during training of the Multi-Axis Vision Transformer (MaxViT) model for tomato leaf disease classification. SophiaG achieved the highest convergence and best overall performance compared to other optimizers.
 | Optimizer| F1 Score | Recall | Precision | Overall Accuracy |
 |----------|---------:|-------:|----------:|-----------------:|
+| AdamW    | 0.9989   | 0.9989 | 0.9989    | 1.00             |
 | SophiaG  | 0.9982   | 0.9982 | 0.9982    | 1.00             |
-| AdamW    | 0.9980   | 0.9980 | 0.9980    | 1.00             |
 | Adam     | 0.9970   | 0.9970 | 0.9970    | 1.00             |
 | RMSprop  | 0.9961   | 0.9961 | 0.9961    | 1.00             |
 | SGD      | 0.9943   | 0.9943 | 0.9943    | 0.99             |
@@ -29,7 +29,7 @@ Tomato Leaf subset of the PlantVillage dataset.
 
 
 ## Key Findings
-The SophiaG and AdamW optimizers demonstrated:
+The AdamW and  SophiaG optimizers demonstrated:
 - Faster convergence
 - More stable training curves
 - Higher validation accuracy
