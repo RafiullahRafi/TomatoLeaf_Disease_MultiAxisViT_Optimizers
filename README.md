@@ -34,6 +34,17 @@ The AdamW and  SophiaG optimizers demonstrated:
 - More stable training curves
 - Higher validation accuracy
 
+## 🚀 Try Online (Google Colab)
+You can directly test the pretrained MaxViT tomato leaf disease model online:
+
+👉 Open Colab Notebook:
+[https://colab.research.google.com/your-link-here](https://colab.research.google.com/drive/1uvE08WbHIDigVDjdWUpL4fIYP2j4DIuu?usp=sharing)
+
+Steps:
+1. Open the notebook
+2. Run all cells
+3. Upload a tomato leaf image
+4. Get disease prediction with confidence
 
 ## Author
 Rafiullah Rafi  
